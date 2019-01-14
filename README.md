@@ -16,12 +16,12 @@ I included the fritzing wiring file in iBeacon/Fritzing folder (optional) if you
 ![](./wiring.png)
 
 ## Demo
-## Default UUID string, Major, and Minor numbers
+### Default UUID string, Major, and Minor numbers
 * UUID string : 74278BDA-B644-4520-8F0C-720EAF059935
 * MAJOR       : 0xFFE0
 * MINOR       : 0XFFE1
 
-## Demo - Configure the JDY-08 into an iBeacon with default values
+### Demo - Configure the JDY-08 into an iBeacon with default values
 ![](./static1.png)
 
 Then i tried to use the iBeacon locator app to find the furthest distance i can detect it.
