@@ -12,7 +12,7 @@ The story behind this is all about I want to make an iBeacon without any high co
 * **Breadboard and some jumper wires**
 
 ## Wiring
-I included the fritzing wiring file in iBeacon/Fritzing folder (optional) if you wanna check it out.
+I included the fritzing wiring file in **iBeacon/Fritzing** folder (optional) if you wanna check it out.
 ![](./wiring.png)
 
 ## Demo
@@ -22,6 +22,7 @@ I included the fritzing wiring file in iBeacon/Fritzing folder (optional) if you
 * MINOR       : 0XFFE1
 
 ### Demo - Configure the JDY-08 into an iBeacon with default values
+The Arduino Sketch for this demo included in **iBeacon/Aduino-Sketches/Static_iBeacon**
 ![](./static1.png)
 
 Then i tried to use the iBeacon locator app to find the furthest distance i can detect it.
@@ -31,6 +32,7 @@ As it turns out, it was about 10 meters (indoor).
 ![](./static3.png)
 
 ### Demo - Periodically change the iBeacon parameters (UUID, Major, Minor, and Advertising interval)
+The Arduino Sketch for this demo included in **iBeacon/Aduino-Sketches/Dinamic_iBeacon**
 Here you see the serial monitor output when it was a one-time-only configuration (left) and periodic configuration (right)
 ![](./serial.png)
 
