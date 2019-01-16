@@ -2,7 +2,7 @@
 Create and demonstrate iBeacon using JDY-08 module with HM-10 firmware.
 The UUID string, major, and minor numbers are dinamically and periodically changeable during opreation.
 
-The story behind this is all about I want to make an iBeacon without any high cost Arduino shield or dedicated Arduino IDE compatible BLE (Bluetooth Low Energy) platform such as nordicRF RedBear BLEs. When I found some really inexpensive BLE module on some online shops (JDY-08 BLE module), i quickly check the datasheet and bought some. Later I learnt that these modules can be re-flashed using HM-10 BLE firmware and then be transformed into an iBeacon. I write another repo which describes the process to re-flash JDY-08 module with HM-10 firmware, here in my [GitHub page](https://handiko.github.io/JDY-08-Reflash/) or [GitHub repo](https://github.com/handiko/JDY-08-Reflash).
+The story behind this is all about I want to make an iBeacon without any high cost Arduino shield or dedicated Arduino IDE compatible BLE (Bluetooth Low Energy) platform such as nordicRF RedBear BLEs. When I found some really inexpensive BLE module on some online shops (JDY-08 BLE module), i quickly check the datasheet and bought some. Later I learnt that these modules can be re-flashed using HM-10 BLE firmware and then be transformed into an iBeacon. I already wrote another repo which describes the process to re-flash JDY-08 module with HM-10 firmware, here in my [GitHub page](https://handiko.github.io/JDY-08-Reflash/) or [GitHub repo](https://github.com/handiko/JDY-08-Reflash).
 
 ## Requirements
 * **JDY-08 BLE module with HM-10 firmware installed** please checkout in my [GitHub page](https://handiko.github.io/JDY-08-Reflash/) or [GitHub repo](https://github.com/handiko/JDY-08-Reflash).
